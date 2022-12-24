@@ -29,5 +29,5 @@
 
 
 <!-- ![](https://img.shields.io/badge/<OS>-<Windows>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)  -->
-[1]: https://raw.githubusercontent.com/RishabhKatiyar/RishabhKatiyar/master/linkedin.png (LinkedIn profile)
+[1]: https://github.com/RishabhKatiyar/RishabhKatiyar/blob/main/linkedin.png (LinkedIn profile)
 [2]: https://www.linkedin.com/in/rishabh-katiyar-a48745b4/r/
